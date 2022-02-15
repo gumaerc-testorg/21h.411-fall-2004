@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains readings which are consulted for this course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-411-history-of-western-thought-500-1300-fall-2004/07e48726fe38beb1876f30bc27f4f724_finalbiblography.pdf
+file: /media/courses/21h-411-history-of-western-thought-500-1300-fall-2004/07e48726fe38beb1876f30bc27f4f724_finalbiblography.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: finalbiblography.pdf
 uid: 07e48726-fe38-beb1-876f-30bc27f4f724
