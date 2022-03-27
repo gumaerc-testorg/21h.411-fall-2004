@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ae986cb7-5e45-240f-e419-09704ab5217c
 resourcetype: Document
 title: finalbiblography.pdf
 uid: 07e48726-fe38-beb1-876f-30bc27f4f724

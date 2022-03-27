@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f17b7a97-aeda-68b1-896b-d51b8fc5e4ee
 resourcetype: Document
 title: gregory.pdf
 uid: 7484205c-0a64-4783-8a43-2285a2027500

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f17b7a97-aeda-68b1-896b-d51b8fc5e4ee
 resourcetype: Document
 title: augustine.pdf
 uid: 6a611af5-4fa6-c431-528b-5bbda3124655

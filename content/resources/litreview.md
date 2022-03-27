@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ae986cb7-5e45-240f-e419-09704ab5217c
 resourcetype: Document
 title: litreview.pdf
 uid: ca2b109f-4a88-0b3e-1c4d-222ea79d20a6

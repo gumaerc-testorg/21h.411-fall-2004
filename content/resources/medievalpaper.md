@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ae986cb7-5e45-240f-e419-09704ab5217c
 resourcetype: Document
 title: medievalpaper.pdf
 uid: a8b70d62-37ec-c10b-13e1-c364bf93cf07

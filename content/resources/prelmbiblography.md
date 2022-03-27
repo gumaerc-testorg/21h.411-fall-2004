@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ae986cb7-5e45-240f-e419-09704ab5217c
 resourcetype: Document
 title: prelmbiblography.pdf
 uid: 47c33f94-06a9-0361-3d3b-ca4f2afe3fc7

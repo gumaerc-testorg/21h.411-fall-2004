@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f17b7a97-aeda-68b1-896b-d51b8fc5e4ee
 resourcetype: Document
 title: boniface.pdf
 uid: 67a8fc9a-beab-102d-918b-4175767c764b
