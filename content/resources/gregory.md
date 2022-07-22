@@ -5,6 +5,7 @@ file: /courses/21h-411-history-of-western-thought-500-1300-fall-2004/7484205c0a6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

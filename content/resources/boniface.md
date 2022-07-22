@@ -5,6 +5,7 @@ file: /courses/21h-411-history-of-western-thought-500-1300-fall-2004/67a8fc9abea
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: boniface.pdf
 uid: 67a8fc9a-beab-102d-918b-4175767c764b
 ---
 The English Correspondence of St. Boniface
-
