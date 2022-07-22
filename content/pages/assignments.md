@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a description of the required research paper and
+  examples of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ae986cb7-5e45-240f-e419-09704ab5217c
 ---
@@ -30,11 +35,11 @@ Virginia Corless (2003)
 {{< tdopen >}}
 
 
-Literature Review ([PDF]({{< baseurl >}}/resources/litreview))
+Literature Review ({{% resource_link ca2b109f-4a88-0b3e-1c4d-222ea79d20a6 "PDF" %}})
 
-Preliminary Bibliography ([PDF]({{< baseurl >}}/resources/prelmbiblography))
+Preliminary Bibliography ({{% resource_link 47c33f94-06a9-0361-3d3b-ca4f2afe3fc7 "PDF" %}})
 
-Final Bibliography ([PDF]({{< baseurl >}}/resources/finalbiblography))
+Final Bibliography ({{% resource_link 07e48726-fe38-beb1-876f-30bc27f4f724 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -47,11 +52,11 @@ Anonymous Student (2004)
 {{< tdopen >}}
 
 
-Literature Review ([PDF]({{< baseurl >}}/resources/medreview))
+Literature Review ({{% resource_link 06e9c648-d2c5-4763-c308-d79c11cb611b "PDF" %}})
 
-Preliminary Bibliography ([PDF]({{< baseurl >}}/resources/literaturereview))
+Preliminary Bibliography ({{% resource_link 3ceddfe0-7d72-eec4-3185-f0edb4b465ba "PDF" %}})
 
-Final Bibliography ([PDF]({{< baseurl >}}/resources/medievalpaper))
+Final Bibliography ({{% resource_link a8b70d62-37ec-c10b-13e1-c364bf93cf07 "PDF" %}})
 
 
 {{< tdclose >}}
