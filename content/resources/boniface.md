@@ -2,6 +2,7 @@
 content_type: resource
 description: The English Correspondence of St. Boniface
 file: /courses/21h-411-history-of-western-thought-500-1300-fall-2004/67a8fc9abeab102d918b4175767c764b_boniface.pdf
+file_size: 725158
 file_type: application/pdf
 learning_resource_types:
 - Readings
