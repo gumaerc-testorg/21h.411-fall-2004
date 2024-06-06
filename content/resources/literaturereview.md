@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contain an extensive literature on the study and usage
   of non-vernacular foreign languages.
 file: /courses/21h-411-history-of-western-thought-500-1300-fall-2004/3ceddfe07d72eec43185f0edb4b465ba_literaturereview.pdf
+file_size: 23985
 file_type: application/pdf
 learning_resource_types:
 - Assignments
