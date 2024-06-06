@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource describes the marital and parental relationship.
 file: /courses/21h-411-history-of-western-thought-500-1300-fall-2004/ca2b109f4a880b3e1c4d222ea79d20a6_litreview.pdf
+file_size: 165059
 file_type: application/pdf
 learning_resource_types:
 - Assignments
