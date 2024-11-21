@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the study of foreign languages in medieval societies.
-file: /courses/21h-411-history-of-western-thought-500-1300-fall-2004/06e9c648d2c54763c308d79c11cb611b_medreview.pdf
+file: /ol-ocw-studio-app/courses/21h-411-history-of-western-thought-500-1300-fall-2004/06e9c648d2c54763c308d79c11cb611b_medreview.pdf
 file_size: 82375
 file_type: application/pdf
 learning_resource_types:
