@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains readings which are consulted for this course.
-file: /ol-ocw-studio-app/courses/21h-411-history-of-western-thought-500-1300-fall-2004/07e48726fe38beb1876f30bc27f4f724_finalbiblography.pdf
+file: /courses/21h-411-history-of-western-thought-500-1300-fall-2004/07e48726fe38beb1876f30bc27f4f724_finalbiblography.pdf
 file_size: 150627
 file_type: application/pdf
 learning_resource_types:
