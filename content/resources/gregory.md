@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21h-411-history-of-western-thought-500-1300-fall-2004/7484205c0a6447838a432285a2027500_gregory.pdf
+file: /courses/21h-411-history-of-western-thought-500-1300-fall-2004/7484205c0a6447838a432285a2027500_gregory.pdf
 file_size: 679936
 file_type: application/pdf
 learning_resource_types:
