@@ -59,7 +59,7 @@ Regularization of Monastic Life
 {{< tdopen >}}
 
 
-_Rule of St. Benedict_. Chapters 1-7, pp. 19-33, 39-40, and 48-51. A version of [The Holy Rule of St. Benedict](http://www.holyrule.com/) is available through St. Benedict's Abbey, Atchison, Kansas.
+_Rule of St. Benedict_. Chapters 1-7, pp. 19-33, 39-40, and 48-51. A version of {{% resource_link "cdc0aaec-270c-455b-b4f6-aa7da7341d86" "The Holy Rule of St. Benedict" %}} is available through St. Benedict's Abbey, Atchison, Kansas.
 
 _Dialogues of Gregory I_. (In reader)
 
